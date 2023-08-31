@@ -126,4 +126,10 @@ export const LISTS = {
     logoURI: "https://payswap.org/logo.png",
     sort: true,
   },
+  "payswap-onramp": {
+    name: "PaySwap Onramp",
+    keywords: ["payswap", "onramp"],
+    logoURI: "https://payswap.org/logo.png",
+    sort: true,
+  },
 } as const;

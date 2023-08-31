@@ -2,7 +2,7 @@
   {
     "name": "Free Transportation Token",
     "symbol": "FTT",
-    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "address": "0x6Ff847c7EbDf92bA9E6D1DBD9c172d912f61C4D4",
     "chainId": 4002,
     "decimals": 18,
     "logoURI": "https://tokens.payswap.org/images/FTT.svg"
@@ -10,7 +10,7 @@
   {
     "name": "Free Real Estate Token",
     "symbol": "FRET",
-    "address": "0x0Fe2B9DAE99b685ce57c7160eF01022e49843Ca6",
+    "address": "0x86EB24C62635573f0dbc52B1b07660f6B3FA8fdA",
     "chainId": 4002,
     "decimals": 18,
     "logoURI": "https://tokens.payswap.org/images/FRET.svg"
@@ -18,7 +18,7 @@
   {
     "name": "Free Energy Token",
     "symbol": "FET",
-    "address": "0x47d59AF489bCd9A959AD80B045766305c793293D",
+    "address": "0xa71B00c519d6573E0cFC37638FE712aC6dD65a2c",
     "chainId": 4002,
     "decimals": 18,
     "logoURI": "https://tokens.payswap.org/images/FET.svg"
@@ -50,7 +50,7 @@
   {
     "name": "Free Beverage Token",
     "symbol": "FBT",
-    "address": "0x9899019bb90D216d1DD2Db790daf2dB7dFb6D827",
+    "address": "0xA1eCa5aC14274ad02F04b62F8620B2767e350d47",
     "chainId": 4002,
     "decimals": 18,
     "logoURI": "https://tokens.payswap.org/images/FBT.svg"
@@ -58,7 +58,7 @@
   {
     "name": "Free Law & Order Token",
     "symbol": "FLOT",
-    "address": "0xfF4d74eD76bBF5b6Da80F3b5D493d3f23D52eB55",
+    "address": "0xC429AbCb98f3565af5e051fdC5Ff081a43b6B803",
     "chainId": 4002,
     "decimals": 18,
     "logoURI": "https://tokens.payswap.org/images/FLOT.svg"
@@ -82,7 +82,7 @@
   {
     "name": "Free Culture & Entertainment Token",
     "symbol": "FECT",
-    "address": "0x0e5d8abf5F9A31b8A17e0f35dd89cCcDd1227DC8",
+    "address": "0xf2Ca8333888cf3C673E81225228a000F9b7b4338",
     "chainId": 4002,
     "decimals": 18,
     "logoURI": "https://tokens.payswap.org/images/FECT.svg"
@@ -90,7 +90,7 @@
   {
     "name": "Free NSFW Token",
     "symbol": "FNT",
-    "address": "0xa78F0762FAFd64B90B2F8fb52A8aF923cD399ddD",
+    "address": "0xFf3254b1e3980fDA97FD7a4A245dC43FE8B9E53f",
     "chainId": 4002,
     "decimals": 18,
     "logoURI": "https://tokens.payswap.org/images/FNT.svg"

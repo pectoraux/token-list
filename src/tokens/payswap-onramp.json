@@ -379,8 +379,8 @@
     "name": "Gambian Dalasi",
     "address": "0x0000000000000000000000000000000000000034",
     "symbol": "GMD",
-    "decimals": 2,
-    "chainId": 1,
+    "decimals": 18,
+    "chainId": 4002,
     "logoURI": "https://tokens.payswap.org/images/gmd.svg"
   },
   {
@@ -523,8 +523,8 @@
     "name": "Comorian Franc",
     "address": "0x0000000000000000000000000000000000000052",
     "symbol": "KMF",
-    "decimals": 0,
-    "chainId": 1,
+    "decimals": 18,
+    "chainId": 4002,
     "logoURI": "https://tokens.payswap.org/images/kmf.svg"
   },
   {
@@ -619,8 +619,8 @@
     "name": "Moldovan Leu",
     "address": "0x0000000000000000000000000000000000000063",
     "symbol": "MDL",
-    "decimals": 2,
-    "chainId": 1,
+    "decimals": 18,
+    "chainId": 4002,
     "logoURI": "https://tokens.payswap.org/images/mdl.svg"
   },
   {
@@ -667,7 +667,8 @@
     "name": "Mauritanian Ouguiya",
     "address": "0x0000000000000000000000000000000000000069",
     "symbol": "MRO",
-    "decimals": 0,
+    "decimals": 18,
+    "chainId": 4002,
     "logoURI": "https://tokens.payswap.org/images/mro.svg"
   },
   {

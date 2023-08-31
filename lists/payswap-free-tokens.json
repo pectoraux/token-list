@@ -1,0 +1,112 @@
+{
+  "name": "PaySwap Free-Tokens",
+  "timestamp": "2023-08-31T14:45:15.196Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 9
+  },
+  "logoURI": "https://payswap.org/logo.png",
+  "keywords": [
+    "payswap",
+    "free-tokens"
+  ],
+  "tokens": [
+    {
+      "name": "Free Apparel & Beauty & Cosmetics Token",
+      "symbol": "FABT",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FABT.svg"
+    },
+    {
+      "name": "Free Beverage Token",
+      "symbol": "FBT",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FBT.svg"
+    },
+    {
+      "name": "Free Culture & Entertainment Token",
+      "symbol": "FECT",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FECT.svg"
+    },
+    {
+      "name": "Free Energy Token",
+      "symbol": "FET",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FET.svg"
+    },
+    {
+      "name": "Free Food Token",
+      "symbol": "FFT",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FFT.svg"
+    },
+    {
+      "name": "Free HealthCare Token",
+      "symbol": "FHT",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FHT.svg"
+    },
+    {
+      "name": "Free Law & Order Token",
+      "symbol": "FLOT",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FLOT.svg"
+    },
+    {
+      "name": "Free Mining Token",
+      "symbol": "FMT",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FMT.svg"
+    },
+    {
+      "name": "Free NSFW Token",
+      "symbol": "FNT",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FNT.svg"
+    },
+    {
+      "name": "Free Real Estate Token",
+      "symbol": "FRET",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FRET.svg"
+    },
+    {
+      "name": "Free Software & Telecommunication Token",
+      "symbol": "FSTT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FSTT.svg"
+    },
+    {
+      "name": "Free Transportation Token",
+      "symbol": "FTT",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://tokens.payswap.org/images/FTT.svg"
+    }
+  ]
+}

@@ -120,10 +120,10 @@ export const LISTS = {
     logoURI: "https://pancakeswap.finance/logo.png",
     sort: true,
   },
-  "payswap-free-tokens": {
-    name: "PaySwap Free-Tokens",
-    keywords: ["payswap", "free-tokens"],
-    logoURI: "https://pancakeswap.finance/logo.png",
+  "payswap-default": {
+    name: "PaySwap Default",
+    keywords: ["payswap", "default"],
+    logoURI: "https://payswap.org/logo.png",
     sort: true,
   },
 } as const;

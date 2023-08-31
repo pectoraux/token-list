@@ -1,10 +1,10 @@
 {
   "name": "PaySwap Onramp",
-  "timestamp": "2023-08-31T21:59:55.624Z",
+  "timestamp": "2023-08-31T22:17:41.447Z",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 12
+    "patch": 13
   },
   "logoURI": "https://payswap.org/logo.png",
   "keywords": [
@@ -997,7 +997,7 @@
       "logoURI": "https://tokens.payswap.org/images/tng.svg"
     },
     {
-      "name": "Tongan Paʻanga",
+      "name": "Tongan Paanga",
       "address": "0x0000000000000000000000000000000000000109",
       "symbol": "TOP",
       "decimals": 18,

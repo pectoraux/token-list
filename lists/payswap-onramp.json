@@ -1,10 +1,10 @@
 {
   "name": "PaySwap Onramp",
-  "timestamp": "2023-08-31T21:09:29.656Z",
+  "timestamp": "2023-08-31T21:59:55.624Z",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 11
+    "patch": 12
   },
   "logoURI": "https://payswap.org/logo.png",
   "keywords": [
@@ -12,30 +12,6 @@
     "onramp"
   ],
   "tokens": [
-    {
-      "name": "Gambian Dalasi",
-      "address": "0x0000000000000000000000000000000000000034",
-      "symbol": "GMD",
-      "decimals": 2,
-      "chainId": 1,
-      "logoURI": "https://tokens.payswap.org/images/gmd.svg"
-    },
-    {
-      "name": "Comorian Franc",
-      "address": "0x0000000000000000000000000000000000000052",
-      "symbol": "KMF",
-      "decimals": 0,
-      "chainId": 1,
-      "logoURI": "https://tokens.payswap.org/images/kmf.svg"
-    },
-    {
-      "name": "Moldovan Leu",
-      "address": "0x0000000000000000000000000000000000000063",
-      "symbol": "MDL",
-      "decimals": 2,
-      "chainId": 1,
-      "logoURI": "https://tokens.payswap.org/images/mdl.svg"
-    },
     {
       "name": "United Arab Emirates Dirham",
       "address": "0x51ccF98593809607bdB08509e8b8d670658f86C0",
@@ -413,6 +389,14 @@
       "logoURI": "https://tokens.payswap.org/images/gip.svg"
     },
     {
+      "name": "Gambian Dalasi",
+      "address": "0x0000000000000000000000000000000000000034",
+      "symbol": "GMD",
+      "decimals": 18,
+      "chainId": 4002,
+      "logoURI": "https://tokens.payswap.org/images/gmd.svg"
+    },
+    {
       "name": "Guinean Franc",
       "address": "0x0000000000000000000000000000000000000035",
       "symbol": "GNF",
@@ -549,6 +533,14 @@
       "logoURI": "https://tokens.payswap.org/images/khr.svg"
     },
     {
+      "name": "Comorian Franc",
+      "address": "0x0000000000000000000000000000000000000052",
+      "symbol": "KMF",
+      "decimals": 18,
+      "chainId": 4002,
+      "logoURI": "https://tokens.payswap.org/images/kmf.svg"
+    },
+    {
       "name": "South Korean Won",
       "address": "0x0000000000000000000000000000000000000053",
       "symbol": "KRW",
@@ -637,6 +629,14 @@
       "logoURI": "https://tokens.payswap.org/images/mad.svg"
     },
     {
+      "name": "Moldovan Leu",
+      "address": "0x0000000000000000000000000000000000000063",
+      "symbol": "MDL",
+      "decimals": 18,
+      "chainId": 4002,
+      "logoURI": "https://tokens.payswap.org/images/mdl.svg"
+    },
+    {
       "name": "Malagasy Ariary",
       "address": "0x0000000000000000000000000000000000000064",
       "symbol": "MGA",
@@ -680,7 +680,8 @@
       "name": "Mauritanian Ouguiya",
       "address": "0x0000000000000000000000000000000000000069",
       "symbol": "MRO",
-      "decimals": 0,
+      "decimals": 18,
+      "chainId": 4002,
       "logoURI": "https://tokens.payswap.org/images/mro.svg"
     },
     {

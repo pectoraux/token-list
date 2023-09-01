@@ -1,7 +1,7 @@
 [
   {
     "name": "United Arab Emirates Dirham",
-    "address": "0x51ccF98593809607bdB08509e8b8d670658f86C0",
+    "address": "0x846533F4d977F89814C4cD17A44729f0F8B80323",
     "symbol": "AED",
     "decimals": 18,
     "chainId": 4002,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Afghan Afghani",
-    "address": "0xA1eCa5aC14274ad02F04b62F8620B2767e350d47",
+    "address": "0xb3e68EAA2F325902c35852c826d76ABD76B2C426",
     "symbol": "AFN",
     "decimals": 18,
     "chainId": 4002,
@@ -17,7 +17,7 @@
   },
   {
     "name": "Albanian Lek",
-    "address": "0xf2Ca8333888cf3C673E81225228a000F9b7b4338",
+    "address": "0x552bE1725B3a31b89BAd4225bABe039Ad50622dD",
     "symbol": "ALL",
     "decimals": 18,
     "chainId": 4002,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Armenian Dram",
-    "address": "0xa71B00c519d6573E0cFC37638FE712aC6dD65a2c",
+    "address": "0x5D5e42fBA7C56D815Aa067EccA9A9eF40e80bd73",
     "symbol": "AMD",
     "decimals": 18,
     "chainId": 4002,
@@ -33,7 +33,7 @@
   },
   {
     "name": "Netherlands Antillean Guilder",
-    "address": "0xB8406F928784221b2dDD72a50Cf7563C45e8Ed9c",
+    "address": "0x0b5C3D7404e7817ea9281d6919F6c716d10DaDB8",
     "symbol": "ANG",
     "decimals": 18,
     "chainId": 4002,
@@ -41,7 +41,7 @@
   },
   {
     "name": "Angolan Kwanza",
-    "address": "0x7eB9763f5eF3bFb84CE6f31b324e7619bFA1ca37",
+    "address": "0xa4C20b9e5f53FEC21B235d784C36B44837302559",
     "symbol": "AOA",
     "decimals": 18,
     "chainId": 4002,
@@ -49,7 +49,7 @@
   },
   {
     "name": "Argentine Peso (ARS)",
-    "address": "0xC429AbCb98f3565af5e051fdC5Ff081a43b6B803",
+    "address": "0xEcAA033ABd78AAabAb82D061CB16d9c51Ca2C70A",
     "symbol": "ARS",
     "decimals": 18,
     "chainId": 4002,
@@ -57,7 +57,7 @@
   },
   {
     "name": "Australian Dollar",
-    "address": "0xEE0A3DE3952B71cfadaA155182878Ed49a6D93a2",
+    "address": "0xf97C510a32b17b0Cdd3a766ab4411E8C92A3d659",
     "symbol": "AUD",
     "decimals": 18,
     "chainId": 4002,
@@ -65,7 +65,7 @@
   },
   {
     "name": "Aruban Florin",
-    "address": "0xFf3254b1e3980fDA97FD7a4A245dC43FE8B9E53f",
+    "address": "0x52Acbd1b1f8C6C525518249bd2ceAd64694351D1",
     "symbol": "AWG",
     "decimals": 18,
     "chainId": 4002,
@@ -73,7 +73,7 @@
   },
   {
     "name": "Azerbaijani Manat",
-    "address": "0x86EB24C62635573f0dbc52B1b07660f6B3FA8fdA",
+    "address": "0xBbbe2E40C2Dc4Ee06571011b5046CfeeAB8AA848",
     "symbol": "AZN",
     "decimals": 18,
     "chainId": 4002,
@@ -81,7 +81,7 @@
   },
   {
     "name": "Bosnia and Herzegovina Convertible Mark",
-    "address": "0xfd045C059AC6423F9B21A456a432Ead97a93F706",
+    "address": "0x8e3339f733EF83e1BF281cd7379fb5AC41192a6b",
     "symbol": "BAM",
     "decimals": 18,
     "chainId": 4002,
@@ -89,7 +89,7 @@
   },
   {
     "name": "Barbadian Dollar",
-    "address": "0x6Ff847c7EbDf92bA9E6D1DBD9c172d912f61C4D4",
+    "address": "0x5309806Cb79B77111d42Ff280cC7E147dbCbe90d",
     "symbol": "BBD",
     "decimals": 18,
     "chainId": 4002,
@@ -97,7 +97,7 @@
   },
   {
     "name": "Bangladeshi Taka",
-    "address": "0x0000000000000000000000000000000000000008",
+    "address": "0xe876326Fbc2fFAea25E157d667cB0e66f7163F43",
     "symbol": "BDT",
     "decimals": 18,
     "chainId": 4002,
@@ -105,7 +105,7 @@
   },
   {
     "name": "Bulgarian Lev",
-    "address": "0xfd045C059AC6423F9B21A456a432Ead97a93F706",
+    "address": "0x1449b06CE1a80D72573B42Ba8d22E93898a42c7D",
     "symbol": "BGN",
     "decimals": 18,
     "chainId": 4002,
@@ -113,7 +113,7 @@
   },
   {
     "name": "Burundian Franc",
-    "address": "0x0000000000000000000000000000000000000000",
+    "address": "0x6c0f90E97a79696a63AFcb3E55EF6f83DDbaa7ab",
     "symbol": "BIF",
     "decimals": 18,
     "chainId": 4002,
@@ -121,7 +121,7 @@
   },
   {
     "name": "Bermudian Dollar",
-    "address": "0x0000000000000000000000000000000000000001",
+    "address": "0x89CcC83cABf246098c70683F4cB53b05526a13CF",
     "symbol": "BMD",
     "decimals": 18,
     "chainId": 4002,
@@ -129,7 +129,7 @@
   },
   {
     "name": "Brunei Dollar",
-    "address": "0x0000000000000000000000000000000000000002",
+    "address": "0x9818DDb3681F823F4a453d231676E3fa1e1eC9F0",
     "symbol": "BND",
     "decimals": 18,
     "chainId": 4002,
@@ -137,7 +137,7 @@
   },
   {
     "name": "Bolivian Boliviano",
-    "address": "0x0000000000000000000000000000000000000003",
+    "address": "0xF71B543d71C8411ad3a0a8d6bC8eEE3b2B928587",
     "symbol": "BOB",
     "decimals": 18,
     "chainId": 4002,
@@ -145,7 +145,7 @@
   },
   {
     "name": "Brazilian Real",
-    "address": "0x0000000000000000000000000000000000000004",
+    "address": "0x33dc9963Ba5beb5Eec85DA15C8c7B70077467276",
     "symbol": "BRL",
     "decimals": 18,
     "chainId": 4002,
@@ -153,7 +153,7 @@
   },
   {
     "name": "Bahamas Dollar",
-    "address": "0x0000000000000000000000000000000000000005",
+    "address": "0xC895Eb7773a776f2C58914A677C6F36A6D9E0903",
     "symbol": "BSD",
     "decimals": 18,
     "chainId": 4002,
@@ -161,7 +161,7 @@
   },
   {
     "name": "Bhutanese Ngultrum",
-    "address": "0x0000000000000000000000000000000000000006",
+    "address": "0xFDB9BA1C30a954E7Fd6008c805b705CDb397760a",
     "symbol": "BTN",
     "decimals": 18,
     "chainId": 4002,
@@ -169,7 +169,7 @@
   },
   {
     "name": "Botswana Pula",
-    "address": "0x0000000000000000000000000000000000000007",
+    "address": "0xD975b5d60DD1c93D707B5670749Ae11c5305E76E",
     "symbol": "BWP",
     "decimals": 18,
     "chainId": 4002,
@@ -177,7 +177,7 @@
   },
   {
     "name": "Belarusian Ruble",
-    "address": "0x0000000000000000000000000000000000000009",
+    "address": "0x20a18D4Ba24049F3b2Acf3792FB038Ec3853b21c",
     "symbol": "BYN",
     "decimals": 18,
     "chainId": 4002,
@@ -185,7 +185,7 @@
   },
   {
     "name": "Belize Dollar",
-    "address": "0x0000000000000000000000000000000000000010",
+    "address": "0x4a56913CD3108c71Bf03adDeAFC1301Bc9dF8c97",
     "symbol": "BZD",
     "decimals": 18,
     "chainId": 4002,
@@ -193,7 +193,7 @@
   },
   {
     "name": "Canadian Dollar",
-    "address": "0x0000000000000000000000000000000000000011",
+    "address": "0x533EA559dF904F28d6522A500c80478DFe01ED1b",
     "symbol": "CAD",
     "decimals": 18,
     "chainId": 4002,
@@ -201,7 +201,7 @@
   },
   {
     "name": "Congolese Franc",
-    "address": "0x0000000000000000000000000000000000000012",
+    "address": "0x795062A41dAAea31B2ee7115f4d6793C4272B5be",
     "symbol": "CDF",
     "decimals": 18,
     "chainId": 4002,
@@ -209,7 +209,7 @@
   },
   {
     "name": "Swiss Franc",
-    "address": "0x0000000000000000000000000000000000000013",
+    "address": "0x31da9dDEECb37446C4DC81Ad84d93289102bd63C",
     "symbol": "CHF",
     "decimals": 18,
     "chainId": 4002,
@@ -217,7 +217,7 @@
   },
   {
     "name": "Chilean Peso",
-    "address": "0x0000000000000000000000000000000000000014",
+    "address": "0x65d9B16817196E637a4446eE1b88fc1976245AC9",
     "symbol": "CLP",
     "decimals": 18,
     "chainId": 4002,
@@ -225,7 +225,7 @@
   },
   {
     "name": "Chinese Yuan",
-    "address": "0x0000000000000000000000000000000000000015",
+    "address": "0x135aa211e21aaDA0af70c42aC8cbe6Da991Bf237",
     "symbol": "CNY",
     "decimals": 18,
     "chainId": 4002,
@@ -233,7 +233,7 @@
   },
   {
     "name": "Colombian Peso",
-    "address": "0x0000000000000000000000000000000000000016",
+    "address": "0x159dC59fB30AD761af7EFDf63c0d7bc737CF4229",
     "symbol": "COP",
     "decimals": 18,
     "chainId": 4002,
@@ -241,7 +241,7 @@
   },
   {
     "name": "Costa Rican Colon",
-    "address": "0x0000000000000000000000000000000000000017",
+    "address": "0x446d5A8a048709D7C14f08A83ffb3c567561acc8",
     "symbol": "CRC",
     "decimals": 18,
     "chainId": 4002,
@@ -249,7 +249,7 @@
   },
   {
     "name": "Cape Verdean Escudo",
-    "address": "0x0000000000000000000000000000000000000018",
+    "address": "0x3E2CB6086d0A8ba86897a120fdaDc95CA40740b9",
     "symbol": "CVE",
     "decimals": 18,
     "chainId": 4002,
@@ -257,7 +257,7 @@
   },
   {
     "name": "Czech Koruna",
-    "address": "0x0000000000000000000000000000000000000019",
+    "address": "0xdba3162eE70fD17c9eEF21A38a48ccf676c40eaF",
     "symbol": "CZK",
     "decimals": 18,
     "chainId": 4002,
@@ -265,7 +265,7 @@
   },
   {
     "name": "Djiboutian Franc",
-    "address": "0x0000000000000000000000000000000000000020",
+    "address": "0xC379785c7a5AbC2e754Ef46dc32b688FEa5547f8",
     "symbol": "DJF",
     "decimals": 18,
     "chainId": 4002,
@@ -273,7 +273,7 @@
   },
   {
     "name": "Danish Krone",
-    "address": "0x0000000000000000000000000000000000000021",
+    "address": "0x43988b29b217311539787A1d3750Ce5F8605c03b",
     "symbol": "DKK",
     "decimals": 18,
     "chainId": 4002,
@@ -281,7 +281,7 @@
   },
   {
     "name": "Dominican Peso",
-    "address": "0x0000000000000000000000000000000000000022",
+    "address": "0x75F1B0693939A5ABBDE9b6bcE6d37c7c98Fdf0A5",
     "symbol": "DOP",
     "decimals": 18,
     "chainId": 4002,
@@ -289,7 +289,7 @@
   },
   {
     "name": "Algerian Dinar",
-    "address": "0x0000000000000000000000000000000000000023",
+    "address": "0x73c37cb28462Ec7d94b18A44835633310C867d18",
     "symbol": "DZD",
     "decimals": 18,
     "chainId": 4002,
@@ -297,7 +297,7 @@
   },
   {
     "name": "Egyptian Pound",
-    "address": "0x0000000000000000000000000000000000000024",
+    "address": "0xeab18363681B04A47C2aBf104f08b3FadbD28aC4",
     "symbol": "EGP",
     "decimals": 18,
     "chainId": 4002,
@@ -305,7 +305,7 @@
   },
   {
     "name": "Ethiopian Birr",
-    "address": "0x0000000000000000000000000000000000000025",
+    "address": "0x1291B61A49299987A9BB17cc0Be04a8615e76248",
     "symbol": "ETB",
     "decimals": 18,
     "chainId": 4002,
@@ -313,7 +313,7 @@
   },
   {
     "name": "Euro",
-    "address": "0x0000000000000000000000000000000000000026",
+    "address": "0xDA2180a084956475B4C4EBeeAE649862BaD838a8",
     "symbol": "EUR",
     "decimals": 18,
     "chainId": 4002,
@@ -321,7 +321,7 @@
   },
   {
     "name": "Fiji Dollar",
-    "address": "0x0000000000000000000000000000000000000027",
+    "address": "0x1d4594FB52007a9B018B850Fad4ac7959ED172F5",
     "symbol": "FJD",
     "decimals": 18,
     "chainId": 4002,
@@ -329,7 +329,7 @@
   },
   {
     "name": "Falkland Islands Pound",
-    "address": "0x0000000000000000000000000000000000000028",
+    "address": "0xBF7bCd653FA173325d2aB0F7Bf88bebd5034E31e",
     "symbol": "FKP",
     "decimals": 18,
     "chainId": 4002,
@@ -337,7 +337,7 @@
   },
   {
     "name": "British Pound Sterling",
-    "address": "0x0000000000000000000000000000000000000029",
+    "address": "0xa9A2d25145c1215f135baDAb52C127754C880A45",
     "symbol": "GBP",
     "decimals": 18,
     "chainId": 4002,
@@ -345,7 +345,7 @@
   },
   {
     "name": "Georgian Lari",
-    "address": "0x0000000000000000000000000000000000000030",
+    "address": "0x060C5989c0201190799b45c7dba4aaae81fDf6D4",
     "symbol": "GEL",
     "decimals": 18,
     "chainId": 4002,
@@ -353,7 +353,7 @@
   },
   {
     "name": "Guernsey Pound",
-    "address": "0x0000000000000000000000000000000000000031",
+    "address": "0xF6fc6917972572d62A057D4E7F26eAf2d8886d2f",
     "symbol": "GGP",
     "decimals": 18,
     "chainId": 4002,
@@ -361,7 +361,7 @@
   },
   {
     "name": "Ghanaian Cedi",
-    "address": "0x0000000000000000000000000000000000000032",
+    "address": "0xCB5f8304eAeE95db3e84318EEADd83A4577e4D0c",
     "symbol": "GHS",
     "decimals": 18,
     "chainId": 4002,
@@ -369,7 +369,7 @@
   },
   {
     "name": "Gibraltar Pound",
-    "address": "0x0000000000000000000000000000000000000033",
+    "address": "0x66c8D3c76e3b1E8aCf855c8DD1791490833a93C3",
     "symbol": "GIP",
     "decimals": 18,
     "chainId": 4002,
@@ -377,7 +377,7 @@
   },
   {
     "name": "Gambian Dalasi",
-    "address": "0x0000000000000000000000000000000000000034",
+    "address": "0x49a3eDBE851e8469dbC78cCb478c56aA204b24De",
     "symbol": "GMD",
     "decimals": 18,
     "chainId": 4002,
@@ -385,7 +385,7 @@
   },
   {
     "name": "Guinean Franc",
-    "address": "0x0000000000000000000000000000000000000035",
+    "address": "0xCf7A6f39ACa615F59B106e7E227376840125228F",
     "symbol": "GNF",
     "decimals": 18,
     "chainId": 4002,
@@ -393,7 +393,7 @@
   },
   {
     "name": "Guatemala Quetzal",
-    "address": "0x0000000000000000000000000000000000000036",
+    "address": "0x3f7d1ab44c3833EF4bc1aC80b2F5836d7Df9C45C",
     "symbol": "GTQ",
     "decimals": 18,
     "chainId": 4002,
@@ -401,7 +401,7 @@
   },
   {
     "name": "Guyanese Dollar",
-    "address": "0x0000000000000000000000000000000000000037",
+    "address": "0x35d93E923aDFc3c5B33C286699f91fA99911511A",
     "symbol": "GYD",
     "decimals": 18,
     "chainId": 4002,
@@ -409,7 +409,7 @@
   },
   {
     "name": "Hong Kong Dollar",
-    "address": "0x0000000000000000000000000000000000000038",
+    "address": "0x4b1429E7A55ae9A85458F9A26Bc1036683Da3517",
     "symbol": "HKD",
     "decimals": 18,
     "chainId": 4002,
@@ -417,7 +417,7 @@
   },
   {
     "name": "Honduran Lempira",
-    "address": "0x0000000000000000000000000000000000000039",
+    "address": "0x2a06Cf9B7937e98e34cA4Eca18373d2920ec73D2",
     "symbol": "HNL",
     "decimals": 18,
     "chainId": 4002,
@@ -425,7 +425,7 @@
   },
   {
     "name": "Croatian Kuna",
-    "address": "0x0000000000000000000000000000000000000040",
+    "address": "0x7321E7acbcCB82aB19FF7BA3f79eA298df9Da321",
     "symbol": "HRK",
     "decimals": 18,
     "chainId": 4002,
@@ -433,7 +433,7 @@
   },
   {
     "name": "Haitian Gourde",
-    "address": "0x0000000000000000000000000000000000000041",
+    "address": "0xCe46686e50C123430257fC17915e0F567bD86976",
     "symbol": "HTG",
     "decimals": 18,
     "chainId": 4002,
@@ -441,7 +441,7 @@
   },
   {
     "name": "Hungarian Forint",
-    "address": "0x0000000000000000000000000000000000000042",
+    "address": "0x5DAe38aBB0D302CA38dDbDAF411F1C2F6675370A",
     "symbol": "HUF",
     "decimals": 18,
     "chainId": 4002,
@@ -449,7 +449,7 @@
   },
   {
     "name": "Indonesian Rupiah",
-    "address": "0x0000000000000000000000000000000000000043",
+    "address": "0x9498FD6715d4444ba2EB7075d7aCc67458932c21",
     "symbol": "IDR",
     "decimals": 18,
     "chainId": 4002,
@@ -457,7 +457,7 @@
   },
   {
     "name": "Israeli New Shekel",
-    "address": "0x0000000000000000000000000000000000000044",
+    "address": "0x586d96D3357FF4EA6e6916267636be7ab64E29Eb",
     "symbol": "ILS",
     "decimals": 18,
     "chainId": 4002,
@@ -465,7 +465,7 @@
   },
   {
     "name": "Indian Rupee",
-    "address": "0x0000000000000000000000000000000000000045",
+    "address": "0x5EBaf83A188F5656B844AC71E6b0066ff16C84DC",
     "symbol": "INR",
     "decimals": 18,
     "chainId": 4002,
@@ -473,7 +473,7 @@
   },
   {
     "name": "Icelandic Krona",
-    "address": "0x0000000000000000000000000000000000000046",
+    "address": "0x26449ED765E5bd625487c54c6Cf03802D64bbF4d",
     "symbol": "ISK",
     "decimals": 18,
     "chainId": 4002,
@@ -481,7 +481,7 @@
   },
   {
     "name": "Jamaican Dollar",
-    "address": "0x0000000000000000000000000000000000000047",
+    "address": "0x6AeB3757E9b834d01d3c64c4213D5e7c8A06F406",
     "symbol": "JMD",
     "decimals": 18,
     "chainId": 4002,
@@ -489,7 +489,7 @@
   },
   {
     "name": "Japanese Yen",
-    "address": "0x0000000000000000000000000000000000000048",
+    "address": "0xC61d8A9bD730E53359a7cbA35f5F25c5A7b7B4ec",
     "symbol": "JPY",
     "decimals": 18,
     "chainId": 4002,
@@ -497,7 +497,7 @@
   },
   {
     "name": "Kenyan Shilling",
-    "address": "0x0000000000000000000000000000000000000049",
+    "address": "0xe6F621c9658B56aDDc67e267D254C61b060796e6",
     "symbol": "KES",
     "decimals": 18,
     "chainId": 4002,
@@ -505,7 +505,7 @@
   },
   {
     "name": "Kyrgyzstani Som",
-    "address": "0x0000000000000000000000000000000000000050",
+    "address": "0xE9410C436228a75A42091974E84a0Ae17f184516",
     "symbol": "KGS",
     "decimals": 18,
     "chainId": 4002,
@@ -513,7 +513,7 @@
   },
   {
     "name": "Cambodian Riel",
-    "address": "0x0000000000000000000000000000000000000051",
+    "address": "0xB70985785f62eB35f064980053C462a2e6E31340",
     "symbol": "KHR",
     "decimals": 18,
     "chainId": 4002,
@@ -521,7 +521,7 @@
   },
   {
     "name": "Comorian Franc",
-    "address": "0x0000000000000000000000000000000000000052",
+    "address": "0x7ba6Eea24c67EC5362c19a4b76BDC83ebA6B34fb",
     "symbol": "KMF",
     "decimals": 18,
     "chainId": 4002,
@@ -529,7 +529,7 @@
   },
   {
     "name": "South Korean Won",
-    "address": "0x0000000000000000000000000000000000000053",
+    "address": "0x24E4c945D3c75dB8D1C5cDB963665AfC5d43327D",
     "symbol": "KRW",
     "decimals": 18,
     "chainId": 4002,
@@ -537,7 +537,7 @@
   },
   {
     "name": "Kuwaiti Dinar",
-    "address": "0x0000000000000000000000000000000000000053",
+    "address": "0x910D96604bCa9c85C95F6fd32cF7e00b1123d3b6",
     "symbol": "KWD",
     "decimals": 18,
     "chainId": 4002,
@@ -545,7 +545,7 @@
   },
   {
     "name": "Cayman Islands Dollar",
-    "address": "0x0000000000000000000000000000000000000054",
+    "address": "0x0999b2003D757E6df1288B7D7F830b4aB94e91Bf",
     "symbol": "KYD",
     "decimals": 18,
     "chainId": 4002,
@@ -553,7 +553,7 @@
   },
   {
     "name": "Kazakhstani Tenge",
-    "address": "0x0000000000000000000000000000000000000055",
+    "address": "0x3dbFaCB16C1De7E1ef1Cf925258a86151Faed140",
     "symbol": "KZT",
     "decimals": 18,
     "chainId": 4002,
@@ -561,7 +561,7 @@
   },
   {
     "name": "Lao Kip",
-    "address": "0x0000000000000000000000000000000000000056",
+    "address": "0x3eD8546353D9f65f03F347629e661BE294e8CaBb",
     "symbol": "LAK",
     "decimals": 18,
     "chainId": 4002,
@@ -569,7 +569,7 @@
   },
   {
     "name": "Lebanese Pound",
-    "address": "0x0000000000000000000000000000000000000057",
+    "address": "0xDF3F6ADF0e5cB808424F7ed93d909F3Cb132AF85",
     "symbol": "LBP",
     "decimals": 18,
     "chainId": 4002,
@@ -577,7 +577,7 @@
   },
   {
     "name": "Sri Lankan Rupee",
-    "address": "0x0000000000000000000000000000000000000058",
+    "address": "0x72D7eed580D2fE70b1662f49186E0FC5E7fC7bC0",
     "symbol": "LKR",
     "decimals": 18,
     "chainId": 4002,
@@ -585,7 +585,7 @@
   },
   {
     "name": "Liberian Dollar",
-    "address": "0x0000000000000000000000000000000000000059",
+    "address": "0xd34ba9FEC052E08F7cc4630Cda311B74Cc1cD757",
     "symbol": "LRD",
     "decimals": 18,
     "chainId": 4002,
@@ -593,7 +593,7 @@
   },
   {
     "name": "Lesotho Loti",
-    "address": "0x0000000000000000000000000000000000000060",
+    "address": "0x8FF14045591d4bE7789a960670e4E91A65324EEE",
     "symbol": "LSL",
     "decimals": 18,
     "chainId": 4002,
@@ -601,7 +601,7 @@
   },
   {
     "name": "Libyan Dinar",
-    "address": "0x0000000000000000000000000000000000000061",
+    "address": "0x5B0f2f76d9503865ed9df78c80F73d637f953414",
     "symbol": "LYD",
     "decimals": 18,
     "chainId": 4002,
@@ -609,7 +609,7 @@
   },
   {
     "name": "Moroccan Dirham",
-    "address": "0x0000000000000000000000000000000000000062",
+    "address": "0xBE38E76bEE934491206fFF1415EcFb0Ba3F14110",
     "symbol": "MAD",
     "decimals": 18,
     "chainId": 4002,
@@ -617,7 +617,7 @@
   },
   {
     "name": "Moldovan Leu",
-    "address": "0x0000000000000000000000000000000000000063",
+    "address": "0xA43793A86fD7e7a11Ffb4d9bCD60B18159084C3a",
     "symbol": "MDL",
     "decimals": 18,
     "chainId": 4002,
@@ -625,7 +625,7 @@
   },
   {
     "name": "Malagasy Ariary",
-    "address": "0x0000000000000000000000000000000000000064",
+    "address": "0x554c83d14E2621ebE6d33d61A1046E55e15A3C59",
     "symbol": "MGA",
     "decimals": 18,
     "chainId": 4002,
@@ -633,7 +633,7 @@
   },
   {
     "name": "Macedonian Denar",
-    "address": "0x0000000000000000000000000000000000000065",
+    "address": "0x3cA42784d48a8e30919F11830E02D3e5B17F0604",
     "symbol": "MKD",
     "decimals": 18,
     "chainId": 4002,
@@ -641,7 +641,7 @@
   },
   {
     "name": "Burmese Kyat",
-    "address": "0x0000000000000000000000000000000000000066",
+    "address": "0x09A52739342c7d83e71539fa761b791300b25F92",
     "symbol": "MMK",
     "decimals": 18,
     "chainId": 4002,
@@ -649,7 +649,7 @@
   },
   {
     "name": "Mongolian Tugrik",
-    "address": "0x0000000000000000000000000000000000000067",
+    "address": "0xf6Bf102a3F005Ee85696Ad1BEe84b9B976804646",
     "symbol": "MNT",
     "decimals": 18,
     "chainId": 4002,
@@ -657,7 +657,7 @@
   },
   {
     "name": "Macanese Pataca",
-    "address": "0x0000000000000000000000000000000000000068",
+    "address": "0xD2ca5A015DedAe5F8337098a7038E53b93604fEA",
     "symbol": "MOP",
     "decimals": 18,
     "chainId": 4002,
@@ -665,7 +665,7 @@
   },
   {
     "name": "Mauritanian Ouguiya",
-    "address": "0x0000000000000000000000000000000000000069",
+    "address": "0xd4d93d7FD2dAe4b6008B8e236F292AF8160AdAA3",
     "symbol": "MRO",
     "decimals": 18,
     "chainId": 4002,
@@ -673,7 +673,7 @@
   },
   {
     "name": "Mauritian Rupee",
-    "address": "0x0000000000000000000000000000000000000070",
+    "address": "0x1f066B5d7F3bb65e16283c5C94A9E7C04F8441F2",
     "symbol": "MUR",
     "decimals": 18,
     "chainId": 4002,
@@ -681,7 +681,7 @@
   },
   {
     "name": "Maldivian Rufiyaa",
-    "address": "0x0000000000000000000000000000000000000071",
+    "address": "0x70BF9e0BEBD9562034073B913461ef0EcBBbd183",
     "symbol": "MVR",
     "decimals": 18,
     "chainId": 4002,
@@ -689,7 +689,7 @@
   },
   {
     "name": "Malawian Kwacha",
-    "address": "0x0000000000000000000000000000000000000072",
+    "address": "0xcf16Af13845A87B59adE264Ce8A61A53676e2e3d",
     "symbol": "MWK",
     "decimals": 18,
     "chainId": 4002,
@@ -697,7 +697,7 @@
   },
   {
     "name": "Mexican Peso",
-    "address": "0x0000000000000000000000000000000000000073",
+    "address": "0x43c147c4c59873cb410330ef424D0a118298A2bd",
     "symbol": "MXN",
     "decimals": 18,
     "chainId": 4002,
@@ -705,7 +705,7 @@
   },
   {
     "name": "Malaysian Ringgit",
-    "address": "0x0000000000000000000000000000000000000074",
+    "address": "0x23427C046e46Acd526AE64b0565dc26EE3A52A4F",
     "symbol": "MYR",
     "decimals": 18,
     "chainId": 4002,
@@ -713,7 +713,7 @@
   },
   {
     "name": "Mozambican Metical",
-    "address": "0x0000000000000000000000000000000000000075",
+    "address": "0xd6fc933A9Aa57898c584e257D2BdCEdA022Ab1c0",
     "symbol": "MZN",
     "decimals": 18,
     "chainId": 4002,
@@ -721,7 +721,7 @@
   },
   {
     "name": "Namibian Dollar",
-    "address": "0x0000000000000000000000000000000000000076",
+    "address": "0x13f60b5AC8ac32e1d73c6F17867f0890143a5a75",
     "symbol": "NAD",
     "decimals": 18,
     "chainId": 4002,
@@ -729,7 +729,7 @@
   },
   {
     "name": "Nigerian Naira",
-    "address": "0x0000000000000000000000000000000000000077",
+    "address": "0x346722bD06b72F9574028F79D2BD0CC72086E569",
     "symbol": "NGN",
     "decimals": 18,
     "chainId": 4002,
@@ -737,7 +737,7 @@
   },
   {
     "name": "Nicaraguan Córdoba",
-    "address": "0x0000000000000000000000000000000000000078",
+    "address": "0x4EA30b67d08A3D8045Fda305eebc0804Cc536e35",
     "symbol": "NIO",
     "decimals": 18,
     "chainId": 4002,
@@ -745,7 +745,7 @@
   },
   {
     "name": "Norwegian Krone",
-    "address": "0x0000000000000000000000000000000000000079",
+    "address": "0xBD3735D97f86502509B344c88a785B8AfeD3809d",
     "symbol": "NOK",
     "decimals": 18,
     "chainId": 4002,
@@ -753,7 +753,7 @@
   },
   {
     "name": "Nepalese Rupee",
-    "address": "0x0000000000000000000000000000000000000080",
+    "address": "0xC9033a43aB02317d63cE0aED97D2FB95C6Da9719",
     "symbol": "NPR",
     "decimals": 18,
     "chainId": 4002,
@@ -761,7 +761,7 @@
   },
   {
     "name": "New Zealand Dollar",
-    "address": "0x0000000000000000000000000000000000000081",
+    "address": "0xA8afd639D7f9015e6e3bdB463Ed64544B9588A65",
     "symbol": "NZD",
     "decimals": 18,
     "chainId": 4002,
@@ -769,7 +769,7 @@
   },
   {
     "name": "Panamanian Balboa",
-    "address": "0x0000000000000000000000000000000000000082",
+    "address": "0xa14b4F361836cd91574da52cEF86838BB771bC7b",
     "symbol": "PAB",
     "decimals": 18,
     "chainId": 4002,
@@ -777,7 +777,7 @@
   },
   {
     "name": "Peruvian Sol",
-    "address": "0x0000000000000000000000000000000000000083",
+    "address": "0x99116f517E4899F912a19E96626DBeEeF19E9cB1",
     "symbol": "PEN",
     "decimals": 18,
     "chainId": 4002,
@@ -785,7 +785,7 @@
   },
   {
     "name": "Papua New Guinean Kina",
-    "address": "0x0000000000000000000000000000000000000084",
+    "address": "0xd68d3d6D41d991B354eA2fa396Ba19CceA99b643",
     "symbol": "PGK",
     "decimals": 18,
     "chainId": 4002,
@@ -793,7 +793,7 @@
   },
   {
     "name": "Philippine Peso",
-    "address": "0x0000000000000000000000000000000000000085",
+    "address": "0xd86c73cF16c25E36b87d37986e9674910a104B80",
     "symbol": "PHP",
     "decimals": 18,
     "chainId": 4002,
@@ -801,7 +801,7 @@
   },
   {
     "name": "Pakistani Rupee",
-    "address": "0x0000000000000000000000000000000000000086",
+    "address": "0xE72160E42d1AdaE7D7bE87b6C838582F864dDeb5",
     "symbol": "PKR",
     "decimals": 18,
     "chainId": 4002,
@@ -809,7 +809,7 @@
   },
   {
     "name": "Polish Zloty",
-    "address": "0x0000000000000000000000000000000000000087",
+    "address": "0xE72160E42d1AdaE7D7bE87b6C838582F864dDeb5",
     "symbol": "PLN",
     "decimals": 18,
     "chainId": 4002,
@@ -817,7 +817,7 @@
   },
   {
     "name": "Paraguayan Guarani",
-    "address": "0x0000000000000000000000000000000000000088",
+    "address": "0x5D7E1744566dcf56DEcCCAF9C30AA8AA5897680d",
     "symbol": "PYG",
     "decimals": 18,
     "chainId": 4002,
@@ -825,7 +825,7 @@
   },
   {
     "name": "Qatari Rial",
-    "address": "0x0000000000000000000000000000000000000089",
+    "address": "0x234803aB2c31D66b59f569A80B61ac3485e3Ce1e",
     "symbol": "QAR",
     "decimals": 18,
     "chainId": 4002,
@@ -833,7 +833,7 @@
   },
   {
     "name": "Romanian Leu",
-    "address": "0x0000000000000000000000000000000000000090",
+    "address": "0xA7dBa69DE7c8dB8Dccb5AB331bF611CfFe2F74AB",
     "symbol": "RON",
     "decimals": 18,
     "chainId": 4002,
@@ -841,7 +841,7 @@
   },
   {
     "name": "Serbian Dinar",
-    "address": "0x0000000000000000000000000000000000000091",
+    "address": "0xbC7fa01e9B5Fe1D55e8F652a591F432F397CC2Ed",
     "symbol": "RSD",
     "decimals": 18,
     "chainId": 4002,
@@ -849,7 +849,7 @@
   },
   {
     "name": "Russian Ruble",
-    "address": "0x0000000000000000000000000000000000000092",
+    "address": "0x5d7FC00A126b34A5Dbd00Aec8895aA8C7Ce0A224",
     "symbol": "RUB",
     "decimals": 18,
     "chainId": 4002,
@@ -857,7 +857,7 @@
   },
   {
     "name": "Rwandan Franc",
-    "address": "0x0000000000000000000000000000000000000093",
+    "address": "0x78Fc5aF12a0041f14d5E32dEB9941E2Fb8288F86",
     "symbol": "RWF",
     "decimals": 18,
     "chainId": 4002,
@@ -865,7 +865,7 @@
   },
   {
     "name": "Saudi Arabian Riyal",
-    "address": "0x0000000000000000000000000000000000000094",
+    "address": "0x62543a43c84D752eF679AdfFe99F2a9847476975",
     "symbol": "SAR",
     "decimals": 18,
     "chainId": 4002,
@@ -873,7 +873,7 @@
   },
   {
     "name": "Solomon Islands Dollar",
-    "address": "0x0000000000000000000000000000000000000095",
+    "address": "0x45B5864823959B77f6FC021704988CFDFDACAf6F",
     "symbol": "SBD",
     "decimals": 18,
     "chainId": 4002,
@@ -881,7 +881,7 @@
   },
   {
     "name": "Seychellois Rupee",
-    "address": "0x0000000000000000000000000000000000000096",
+    "address": "0x0d700FeB9CCf79A6d47DbFF9c6ae443469a6487A",
     "symbol": "SCR",
     "decimals": 18,
     "chainId": 4002,
@@ -889,7 +889,7 @@
   },
   {
     "name": "Swedish Krona",
-    "address": "0x0000000000000000000000000000000000000097",
+    "address": "0x2972f605daA4989e5C567775a8f5f18b1e104C2c",
     "symbol": "SEK",
     "decimals": 18,
     "chainId": 4002,
@@ -897,7 +897,7 @@
   },
   {
     "name": "Singapore Dollar",
-    "address": "0x0000000000000000000000000000000000000098",
+    "address": "0xfB1A8EBE90f78b5293Fe97be137b9659D31824d1",
     "symbol": "SGD",
     "decimals": 18,
     "chainId": 4002,
@@ -905,7 +905,7 @@
   },
   {
     "name": "Saint Helena Pound",
-    "address": "0x0000000000000000000000000000000000000099",
+    "address": "0xF26102328d1A44e38072b47fC8cD3EA2C0ce540d",
     "symbol": "SHP",
     "decimals": 18,
     "chainId": 4002,
@@ -913,7 +913,7 @@
   },
   {
     "name": "Sierra Leonean Leone",
-    "address": "0x0000000000000000000000000000000000000100",
+    "address": "0x1D3615c2e3923596f3C798851a4baB4198f33aF6",
     "symbol": "SLE",
     "decimals": 18,
     "chainId": 4002,
@@ -921,7 +921,7 @@
   },
   {
     "name": "Somali Shilling",
-    "address": "0x0000000000000000000000000000000000000101",
+    "address": "0xF3a997Ae202EaB6e400da2956a703a027c2F38FC",
     "symbol": "SOS",
     "decimals": 18,
     "chainId": 4002,
@@ -929,7 +929,7 @@
   },
   {
     "name": "Surinamese Dollar",
-    "address": "0x0000000000000000000000000000000000000102",
+    "address": "0xffc3a4427A54341eE12503AaB4d31De9f4067FbB",
     "symbol": "SRD",
     "decimals": 18,
     "chainId": 4002,
@@ -937,7 +937,7 @@
   },
   {
     "name": "Sao Tome and Principe Dobra",
-    "address": "0x0000000000000000000000000000000000000103",
+    "address": "0xC0D8FE9aC31Dd80b53C46fFc0322B300bDD97903",
     "symbol": "STD",
     "decimals": 18,
     "chainId": 4002,
@@ -945,7 +945,7 @@
   },
   {
     "name": "Syrian Pound",
-    "address": "0x0000000000000000000000000000000000000104",
+    "address": "0x0907DCaFAa3a16c232852c892D979927E8f3BfA7",
     "symbol": "SYP",
     "decimals": 18,
     "chainId": 4002,
@@ -953,7 +953,7 @@
   },
   {
     "name": "Swazi Lilangeni",
-    "address": "0x0000000000000000000000000000000000000105",
+    "address": "0xaF20E0D5e579afea549a0d85CA5b058d94abd86F",
     "symbol": "SZL",
     "decimals": 18,
     "chainId": 4002,
@@ -961,7 +961,7 @@
   },
   {
     "name": "Thai Baht",
-    "address": "0x0000000000000000000000000000000000000106",
+    "address": "0xd4103f37cC163a365e65EEC1Ab1f115f856701C6",
     "symbol": "THB",
     "decimals": 18,
     "chainId": 4002,
@@ -969,7 +969,7 @@
   },
   {
     "name": "Tajikistani Somoni",
-    "address": "0x0000000000000000000000000000000000000107",
+    "address": "0x6e60c01aCD5EDEb51D8D2039f1cF0f5D7e43D71D",
     "symbol": "TJS",
     "decimals": 18,
     "chainId": 4002,
@@ -977,7 +977,7 @@
   },
   {
     "name": "Tanzanian Shilling",
-    "address": "0x0000000000000000000000000000000000000108",
+    "address": "0x7fB743d4f5d9D7CD7c0c5dF9B3A05e4ce2b295c2",
     "symbol": "TNG",
     "decimals": 18,
     "chainId": 4002,
@@ -985,7 +985,7 @@
   },
   {
     "name": "Tongan Paanga",
-    "address": "0x0000000000000000000000000000000000000109",
+    "address": "0x6A58303d87811A14ee4274c3eC8176181F318e84",
     "symbol": "TOP",
     "decimals": 18,
     "chainId": 4002,
@@ -993,7 +993,7 @@
   },
   {
     "name": "Turkish Lira",
-    "address": "0x0000000000000000000000000000000000000110",
+    "address": "0xAD0Df80f34E42b4689E037de01BbC8952aECaec7",
     "symbol": "TRY",
     "decimals": 18,
     "chainId": 4002,
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Trinidad and Tobago Dollar",
-    "address": "0x0000000000000000000000000000000000000111",
+    "address": "0x3a8f91BD37953fBe38942eF97B5D9661e5AAAA29",
     "symbol": "TTD",
     "decimals": 18,
     "chainId": 4002,
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "Taiwan New Dollar",
-    "address": "0x0000000000000000000000000000000000000112",
+    "address": "0x550adCed545d2bEeF30AC6BAe41548505D02E7c8",
     "symbol": "TWD",
     "decimals": 18,
     "chainId": 4002,
@@ -1017,7 +1017,7 @@
   },
   {
     "name": "Tanzanian Shilling",
-    "address": "0x0000000000000000000000000000000000000113",
+    "address": "0x876E9Fc37962dF9748d3B9E090182bFcdcb5506d",
     "symbol": "TZS",
     "decimals": 18,
     "chainId": 4002,
@@ -1025,7 +1025,7 @@
   },
   {
     "name": "Ukrainian Hryvnia",
-    "address": "0x0000000000000000000000000000000000000114",
+    "address": "0xA0a63F7bCDC64Bc29ebAeF1f7144F99D790ca644",
     "symbol": "UAH",
     "decimals": 18,
     "chainId": 4002,
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "Ugandan Shilling",
-    "address": "0x0000000000000000000000000000000000000115",
+    "address": "0x86906c1F2F1b2afEe10F136392aF711C773f3F38",
     "symbol": "UGX",
     "decimals": 18,
     "chainId": 4002,
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "United States Dollar",
-    "address": "0x0000000000000000000000000000000000000116",
+    "address": "0x960F885Cdd31487f17b2BD07ef31e1916df6a306",
     "symbol": "USD",
     "decimals": 18,
     "chainId": 4002,
@@ -1049,7 +1049,7 @@
   },
   {
     "name": "Uruguayan Peso",
-    "address": "0x0000000000000000000000000000000000000117",
+    "address": "0xCFAba45864B4CA883746db8C894AAeCc50E518dd",
     "symbol": "UYU",
     "decimals": 18,
     "chainId": 4002,
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "Uzbekistani Som",
-    "address": "0x0000000000000000000000000000000000000118",
+    "address": "0x947c23c536EE6E9694dd86b204b7152FF289Bc28",
     "symbol": "UZS",
     "decimals": 18,
     "chainId": 4002,
@@ -1065,7 +1065,7 @@
   },
   {
     "name": "Venezuelan Bolivar Fuerte",
-    "address": "0x0000000000000000000000000000000000000119",
+    "address": "0xE1E2d149676BC329Cd7c063dF09340BF0b505886",
     "symbol": "VEF",
     "decimals": 18,
     "chainId": 4002,
@@ -1073,7 +1073,7 @@
   },
   {
     "name": "Vietnamese Dong",
-    "address": "0x0000000000000000000000000000000000000120",
+    "address": "0xc0ffA39d9e5D8d11c65CDDC3283c06f2dBECDc68",
     "symbol": "VND",
     "decimals": 18,
     "chainId": 4002,
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "Vanuatu Vatu",
-    "address": "0x0000000000000000000000000000000000000121",
+    "address": "0x7eE0713AFA5CFFb79eA1C2949c0bC58891348570",
     "symbol": "VUV",
     "decimals": 18,
     "chainId": 4002,
@@ -1089,7 +1089,7 @@
   },
   {
     "name": "Samoan Tala",
-    "address": "0x0000000000000000000000000000000000000122",
+    "address": "0xdE04175E43Ac6E19506E4929b0D444EF2A8A562e",
     "symbol": "WST",
     "decimals": 18,
     "chainId": 4002,
@@ -1097,7 +1097,7 @@
   },
   {
     "name": "Yemeni Rial",
-    "address": "0x0000000000000000000000000000000000000123",
+    "address": "0x5FB89D08981a2499E8d200B5a326bEf7fbc8F817",
     "symbol": "YER",
     "decimals": 18,
     "chainId": 4002,
@@ -1105,7 +1105,7 @@
   },
   {
     "name": "South African Rand",
-    "address": "0x0000000000000000000000000000000000000124",
+    "address": "0x28e3a0450571b79df39B56331AdC38391D51a2Dd",
     "symbol": "ZAR",
     "decimals": 18,
     "chainId": 4002,
@@ -1113,7 +1113,7 @@
   },
   {
     "name": "West African CFA Franc",
-    "address": "0x0000000000000000000000000000000000000125",
+    "address": "0xCBB369523db373D41B634e10AAD7970eCf9b2AFc",
     "symbol": "XOF",
     "decimals": 18,
     "chainId": 4002,
@@ -1121,7 +1121,7 @@
   },
   {
     "name": "Eastern Caribbean Dollar",
-    "address": "0x0000000000000000000000000000000000000126",
+    "address": "0x7D405Ea33ffF63622ac58B0D8f804FB6492608E2",
     "symbol": "XCD",
     "decimals": 18,
     "chainId": 4002,
@@ -1129,7 +1129,7 @@
   },
   {
     "name": "Zambian Kwacha",
-    "address": "0x0000000000000000000000000000000000000127",
+    "address": "0x5ac84E9ec0410808f17F6334eE31B362345C5835",
     "symbol": "ZMW",
     "decimals": 18,
     "chainId": 4002,
@@ -1137,7 +1137,7 @@
   },
   {
     "name": "Zimbabwean Dollar",
-    "address": "0x0000000000000000000000000000000000000128",
+    "address": "0xAf8cd520793100e02b385F0a110C0B16E6cCbbD8",
     "symbol": "ZWL",
     "decimals": 18,
     "chainId": 4002,
